@@ -71,10 +71,10 @@ public class Main {
           float differenceSalaryKristina = salaryKristinaAfterRise12-salaryKristinaBeforeRise12;
         System.out.println("     Зарплата Маши после повышения " + salaryMashaRise + " p");
         System.out.println("     Годовой доход Маши увеличится на " + differenceSalaryMasha + " p");
-        System.out.println( " ");
+        System.out.println(" ");
         System.out.println("     Зарплата Дениса после повышения " + salaryDenisRise + " p");
         System.out.println("     Годовой доход Дениса увеличится на " + differenceSalaryDenis + " p");
-        System.out.println( " ");
+        System.out.println(" ");
         System.out.println("     Зарплата Кристины после повышения " + salaryKristinaRise + " p");
         System.out.println("     Годовой доход Кристины увеличится на " + differenceSalaryKristina + " p");
 
