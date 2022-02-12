@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b34fa9bc-0b33-4154-9e1d-725f195adf9f" name="Changes" comment="Start">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b34fa9bc-0b33-4154-9e1d-725f195adf9f" name="Changes" comment="Done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWork3.0/ru/skypro/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWork3.0/ru/skypro/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/skypro/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/skypro/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644591475843</updated>
       <workItem from="1644591476992" duration="3542000" />
-      <workItem from="1644646451255" duration="7696000" />
+      <workItem from="1644646451255" duration="9061000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1644591901838</created>
@@ -119,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644591901838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done">
+      <created>1644654632272</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644654632272</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done">
+      <created>1644654713628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644654713628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Start" />
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
